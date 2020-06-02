@@ -1,0 +1,79 @@
+{
+  "chineseApps": [
+    {
+      "appName": "TikTok",
+      "appImage": "",
+      "appPackageName": "com.zhiliaoapp.musically",
+      "alternative": [
+        {
+          "appName": "Dubsmash",
+          "appImage": "",
+          "appPackageName": "com.mobilemotion.dubsmash"
+        },
+        {
+          "appName": "Funimate",
+          "appImage": "",
+          "appPackageName": "com.avcrbt.funimate"
+        }
+      ]
+    },
+    {
+      "appName": "Cam Scanner",
+      "appImage": "",
+      "appPackageName": "com.intsig.camscanner",
+      "alternative": [
+        {
+          "appName": "Microsoft Office Lens",
+          "appImage": "",
+          "appPackageName": "com.microsoft.office.officelens"
+        },
+        {
+          "appName": "Adobe Scan",
+          "appImage": "",
+          "appPackageName": "com.adobe.scan.android"
+        }
+      ]
+    },
+    {
+      "appName": "AppLock",
+      "appImage": "",
+      "appPackageName": "com.domobile.applockwatcher",
+      "alternative": [
+        {
+          "appName": "Norton App Lock",
+          "appImage": "",
+          "appPackageName": "com.symantec.applock"
+        }
+      ]
+    },
+    {
+      "appName": "PUBG",
+      "appImage": "",
+      "appPackageName": "com.tencent.ig",
+      "alternative": [
+        {
+          "appName": "Fortnite",
+          "appImage": "",
+          "appPackageName": "com.epicgames.fortnite"
+        }
+      ]
+    },
+    {
+      "appName": "ClubFactory",
+      "appImage": "",
+      "appPackageName": "ClubFactory&c=apps",
+      "alternative": [
+        {
+          "appName": "Myntra",
+          "appImage": "",
+          "appPackageName": "in.amazon.mShop.android.shopping"
+        },
+        {
+          "appName": "Flipkart",
+          "appImage": "",
+          "appPackageName": "com.flipkart.android"
+        }
+      ]
+    }
+  ]
+}

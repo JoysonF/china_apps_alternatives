@@ -4,6 +4,7 @@
       "appName": "TikTok",
       "appImage": "",
       "appPackageName": "com.zhiliaoapp.musically",
+      "appSize":"10.00MB",
       "alternative": [
         {
           "appName": "Dubsmash",
@@ -21,6 +22,7 @@
       "appName": "Cam Scanner",
       "appImage": "",
       "appPackageName": "com.intsig.camscanner",
+      "appSize":"10.00MB",
       "alternative": [
         {
           "appName": "Microsoft Office Lens",
@@ -38,6 +40,7 @@
       "appName": "AppLock",
       "appImage": "",
       "appPackageName": "com.domobile.applockwatcher",
+      "appSize":"10.00MB",
       "alternative": [
         {
           "appName": "Norton App Lock",
@@ -50,6 +53,7 @@
       "appName": "PUBG",
       "appImage": "",
       "appPackageName": "com.tencent.ig",
+      "appSize":"10.00MB",
       "alternative": [
         {
           "appName": "Fortnite",
@@ -62,6 +66,7 @@
       "appName": "ClubFactory",
       "appImage": "",
       "appPackageName": "ClubFactory&c=apps",
+      "appSize":"10.00MB",
       "alternative": [
         {
           "appName": "Myntra",
